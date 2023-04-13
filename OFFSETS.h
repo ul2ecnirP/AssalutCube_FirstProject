@@ -1,0 +1,18 @@
+#define PLAYERCLASS 0 //REDACTED
+#define ENTITYCLASS 0 //REDACTED
+#define ISGAMEPAUSED 0 //REDACTED
+#define VIEWMATRIX 0 //REDACTED
+#define VIE 0xEC
+#define X 0x04
+#define Y 0x08
+#define Z 0xC
+#define NOM 0x205
+#define PLAYERAMOUTH_OFFSET 0x8
+#define ISSHOOTING 0x72
+#define YPOSCUR 0x38
+#define XPOSCUR 0x34
+#define GRENADEOFFSET 0x144
+#define M4AMO 0x11C
+#define ACTUALM4AMO 0x140
+#define PISTOLAMO 0x108
+#define ACTUALPISTOAMO 0x12C
